@@ -1,0 +1,3 @@
+[submodule "libs/sdl-zig"]
+	path = libs/sdl-zig
+	url = https://github.com/MasterQ32/SDL.zig
